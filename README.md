@@ -13,7 +13,16 @@ El programa se ejecuta completamente en la consola.
 - Manejo de errores y validaciones
 - Código modular y organizado por clases
 
-### Conversiones disponibles
+---
+
+## 🖥️ Ejecución en consola
+Ejemplo del programa funcionando desde la terminal:
+
+![Ejecución del conversor](images/consola-funcionando.png)
+
+---
+
+## 🔄 Conversiones disponibles
 - Dólar (USD) ⇄ Peso argentino (ARS)
 - Dólar (USD) ⇄ Real brasileño (BRL)
 - Dólar (USD) ⇄ Peso chileno (CLP)
